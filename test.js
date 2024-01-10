@@ -1,3 +1,4 @@
+// JUST COPIED THE ORIGINAL CODE HERE FOR DEBUGGING
 // Error 1:
 let message = 'Welcome to the debugging exercise!';
 console.log(mesage); 
