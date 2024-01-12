@@ -1,17 +1,19 @@
-# Lighthouse Audit
-### Ran Lighthouse audit on my portfolio main page and captured the results of it.
+# Web Performance Optimization
+
+## Lighthouse Audit
+ Ran Lighthouse audit on my portfolio main page and captured the results of it.
 
 Screenshot attached
 ![Main Page Audit](image.png)
 
-# Performance Profiling
-### Ran Performance profile and recorded its results.
+## Performance Profiling
+ Ran Performance profile and recorded its results.
 
 Screenshot attached
 ![Performance test result](image-1.png)
 
-# Network performance
-### Ran network performance test and recorded its results.
+## Network performance
+ Ran network performance test and recorded its results.
 
 Screenshot attached
 ![Network Activity examined](image-2.png)
