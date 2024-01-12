@@ -7,6 +7,10 @@
 Screenshot attached
 ![Main Page Audit](image.png)
 
+Screenshot of the page after fixing the bug in the code in index.html
+![Screenshot of the page with fixed 
+code](image-3.png)
+
 ## Performance Profiling
  Ran Performance profile and recorded its results.
 
