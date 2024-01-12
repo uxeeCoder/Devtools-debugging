@@ -1,7 +1,8 @@
 # Web Performance Optimization
 
 ## Lighthouse Audit
- Ran Lighthouse audit on my portfolio main page and captured the results of it.
+ Ran Lighthouse audit on my portfolio main page and captured the results of it.  
+ I was able to see minor issues with the code in index.html file where Form element for= First name was written in lowercase while id was as First Name in uppercase which i fixed and it resolved the issue showing in the screenshot on the top right side as a small red message icon. Good use of Debugging tool to find even minor errors in the code.
 
 Screenshot attached
 ![Main Page Audit](image.png)
